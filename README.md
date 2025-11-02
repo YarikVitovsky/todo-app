@@ -16,7 +16,9 @@ A modern, interactive todo list application built with React and Vite. Manage yo
 
 ## 🚀 Demo
 
-Check out the live demo: [Todo App](https://github.com/YarikVitovsky/todo-app)
+🌟 **Live Demo**: [https://todo-app-yarik.vercel.app](https://todo-app-yarik.vercel.app)
+
+📱 **GitHub Repository**: [https://github.com/YarikVitovsky/todo-app](https://github.com/YarikVitovsky/todo-app)
 
 ## 🛠️ Tech Stack
 
