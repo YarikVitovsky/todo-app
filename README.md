@@ -16,7 +16,7 @@ A modern, interactive todo list application built with React and Vite. Manage yo
 
 ## 🚀 Demo
 
-🌟 **Live Demo**: [https://todo-app-weld-seven-89.vercel.app](https://todo-app-weld-seven-89.vercel.app)
+🌟 **Live Demo**: [https://grand-cannoli-84eaed.netlify.app](https://grand-cannoli-84eaed.netlify.app)
 
 📱 **GitHub Repository**: [https://github.com/YarikVitovsky/todo-app](https://github.com/YarikVitovsky/todo-app)
 
@@ -100,7 +100,16 @@ Contributions are welcome! Here's how you can help:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
+## � Deployment
+
+This app is deployed on **Netlify** with automatic deployments from the main branch.
+
+- **Platform**: Netlify
+- **Auto-deploy**: ✅ Enabled (deploys on every push to main)
+- **Build Command**: `npm run build`
+- **Publish Directory**: `dist`
+
+## �👨‍💻 Author
 
 **Yarik Vitovsky**
 - GitHub: [@YarikVitovsky](https://github.com/YarikVitovsky)
